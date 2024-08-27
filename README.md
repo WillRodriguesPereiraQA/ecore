@@ -7,4 +7,4 @@ In this repository you are going to find several files with the following conten
 - Execution Report
 - Bugs Report
 - Test Coverage
-- Test Plan
+- Test Plan 
