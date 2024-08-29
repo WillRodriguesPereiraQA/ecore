@@ -1,5 +1,5 @@
 # ecore
-QA assessment - Test Plan
+QA assessment - **Test Plan**
 
 # Rendezvous Hotel Invoice web application
 Usability of the invoice web application of the Hotel Rendezvous
