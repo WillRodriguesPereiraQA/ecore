@@ -16,7 +16,7 @@ Test Data:
 - Description: Check the application is accepting valid login credential
 - Expected behavior: the application displays the invoice list page after the login succeeds
 - Actual behavior: the invoice list page is successfully being displayed after the login succeeds
-- Priority: 
+- Priority: 2
 - Type: **Functional**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -32,7 +32,7 @@ Test Data:
 - Description: Check the application is accepting valid login credential
 - Expected behavior: the application displays the invoice list page after the login succeeds
 - Actual behavior: the invoice list page is successfully being displayed after the login succeeds
-- Priority:
+- Priority: 2
 - Type: **Functional**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -48,7 +48,7 @@ Test Data:
 - Description: Check the application is accepting valid login credential
 - Expected behavior: the application displays the invoice list page after the login succeeds
 - Actual behavior: the invoice list page is successfully being displayed after the login succeeds
-- Priority:
+- Priority: 2
 - Type: **Functional**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -64,7 +64,7 @@ Test Data:
 - Description: Check the application is not accepting invalid login credentials
 - Expected behavior: the application displays error message
 - Actual behavior: the application displays error message 
-- Priority:
+- Priority: 2
 - Type: **Functional**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -80,7 +80,7 @@ Test Data:
 - Description: Check the application is not accepting invalid login credentials
 - Expected behavior: the application displays error message
 - Actual behavior: the application displays error message 
-- Priority:
+- Priority: 2
 - Type: **Functional**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -96,7 +96,7 @@ Test Data:
 - Description: Check the application is not accepting invalid login credentials
 - Expected behavior: the application displays error message
 - Actual behavior: the application displays error message 
-- Priority:
+- Priority: 2
 - Type: **Functional**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -114,7 +114,7 @@ Test Data:
 - Description: Check the Invoice Details screen is being successfully displayed
 - Expected behavior: Invoice Details screen being displayed properly  
 - Actual behavior: Invoice Details screen being displayed properly   
-- Priority:
+- Priority: 1
 - Type: **Functional**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -130,7 +130,7 @@ Test Data:
 - Description: Check the Invoice Details screen is being successfully displayed
 - Expected behavior: Invoice Details screen being displayed properly  
 - Actual behavior: Invoice Details screen being displayed properly   
-- Priority:
+- Priority: 1
 - Type: **Functional**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -146,7 +146,7 @@ Test Data:
 - Description: Check the Invoice Details screen is being successfully displayed
 - Expected behavior: Invoice Details screen being displayed properly  
 - Actual behavior: Invoice Details screen being displayed properly   
--Priority:
+-Priority: 1
 - Type: **Functional**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -164,7 +164,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the dates properly
 - Expected behavior: Invoice Details dates displayed properly  
 - Actual behavior:  Invoice Details dates displayed properly    
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -180,7 +180,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the dates properly
 - Expected behavior: Invoice Details dates displayed properly  
 - Actual behavior:  Invoice Details dates displayed properly    
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -196,7 +196,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the dates properly
 - Expected behavior: Invoice Details dates displayed properly  
 - Actual behavior:  Invoice Details dates displayed properly    
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -212,7 +212,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the dates properly
 - Expected behavior: Booking information displayed properly  
 - Actual behavior:  Booking information displayed properly     
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -231,7 +231,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the dates properly
 - Expected behavior: Booking information displayed properly  
 - Actual behavior:  Booking information displayed properly     
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 -Status: PASS
 - Environment: QA/Pre-Prod
@@ -250,7 +250,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the dates properly
 - Expected behavior: Booking information displayed properly  
 - Actual behavior:  Booking information displayed properly     
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -268,7 +268,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the customer informations properly
 - Expected behavior: Customer information displayed properly  
 - Actual behavior:  Customer information displayed properly     
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -284,7 +284,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the customer informations properly
 - Expected behavior: Customer information displayed properly  
 - Actual behavior:  Customer information displayed properly     
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -300,7 +300,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the customer informations properly
 - Expected behavior: Customer information displayed properly  
 - Actual behavior:  Customer information displayed properly     
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -316,7 +316,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the billing informations properly
 - Expected behavior: Billing information displayed properly  
 - Actual behavior:  Billing information displayed properly     
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -334,7 +334,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the billing informations properly
 - Expected behavior: Billing information displayed properly  
 - Actual behavior:  Billing information displayed properly     
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -352,7 +352,7 @@ Test Data:
 - Description: Check the Invoice Details screen is displaying the billing informations properly
 - Expected behavior: Billing information displayed properly  
 - Actual behavior:  Billing information displayed properly     
-- Priority: 2
+- Priority: 1
 - Type: **Regression**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -372,7 +372,7 @@ Test Data:
 - Description: Check the application is not accepting invalid login credentials
 - Expected behavior: the application displays error message
 - Actual behavior: the application is successfully permiting the log in 
-- Priority: 1
+- Priority: 3
 - Type: **Non-Functional**
 -Status: **FAIL**
 - Environment: QA/Pre-Prod
@@ -389,7 +389,7 @@ Test Data:
 - Description: Check the application is not accepting invalid login credentials
 - Expected behavior: the application displays error message
 - Actual behavior: the application is successfully permiting the log in 
-- Priority: 1
+- Priority: 3
 - Type: **Non-Functional**
 - Status: **FAIL**
 - Environment: QA/Pre-Prod
@@ -406,7 +406,7 @@ Test Data:
 - Description: Check the application is not accepting invalid login credentials
 - Expected behavior: the application displays error message
 - Actual behavior: the application is successfully permiting the log in 
-- Priority: 1
+- Priority: 3
 - Type: **Non-Functional**
 - Status: **FAIL**
 - E nvironment: QA/Pre-Prod
