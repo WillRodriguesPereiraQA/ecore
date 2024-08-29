@@ -2,6 +2,7 @@
 QA assessment - Test Plan
 
 # Rendezvous Hotel Invoice web application
+Usability of the invoice web application of the Hotel Rendezvous
 
 # Summary
 We are going to cover the whole application by testing it in several ways, functional and non-functional tests, create a regression library of Test Cases divided in features in order to certify the application is always working properly after any new implementation.
