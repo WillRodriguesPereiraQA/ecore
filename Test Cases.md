@@ -10,8 +10,7 @@ Test Data:
 - Browsers: Chrome, Edge, Chrome Mobile
 
 
-*Test Cases:*
-
+** Test Cases of Log In feature:**
 # Title: TC001 - Successfull Login to the Invoice list page - Chrome
 - Prerequesite: After a successful login, the application should redirect the user to the page Invoice List
 - Description: Check the application is accepting valid login credential
@@ -108,6 +107,8 @@ Test Data:
 > - When I inform invalid Username and password 
 > - Then it displays the message: Wrong username or password
 
+
+** Test Cases of Invoice Link feature:**
 # Title: TC007 - Invoice Details link working properly - Chrome
 - Prerequisite: After the user clicks any Invoice Details link, the application opens the Invoice Details screen.
 - Description: Check the Invoice Details screen is being successfully displayed
@@ -156,6 +157,8 @@ Test Data:
 > - When I select a Invoice Details in the Invoice Link column 
 > - Then the Invoice screen is successfully displayed
 
+
+** Test Cases of Invoice Details feature:**
 # Title: TC010 - Invoice dates displayed on Invoice Details screen - Chrome 
 - Prerequisite: Invoice Date and Due Date are displayed on the Invoice Details screen.
 - Description: Check the Invoice Details screen is displaying the dates properly
@@ -362,6 +365,8 @@ Test Data:
 
 > - Deposit Nowt | Tax&VAT | Total Amount
 
+
+** Test Cases of Log In feature:**
 # Title: TC022 - Failed Login when navigating the web browser back button - Chrome
 - Prerequisite: After hit the back button, login failed with wrong credentials, the application shows the message: Wrong username or password
 - Description: Check the application is not accepting invalid login credentials
