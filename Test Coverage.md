@@ -19,15 +19,15 @@ QA assessment - Test Coverage
 - Title: TC024 - Failed Login when navigating the web browser back button - Chrome Mobile
 
 # Regression
-Title: TC010 - Invoice dates displayed on Invoice Details screen - Chrome 
-Title: TC011 - Invoice dates displayed on Invoice Details screen - Edge
-Title: TC012 - Invoice dates displayed on Invoice Details screen - Chrome Mobile
-Title: TC013 - Booking details on Invoice Details screen - Chrome
-Title: TC014 - Booking details on Invoice Details screen - Edge
-Title: TC015 - Booking details on Invoice Details screen - Chrome Mobile
-Title: TC016 - Customer Details on Invoice Details screen - Chrome
-Title: TC017 - Customer Details on Invoice Details screen - Edge
-Title: TC018 - Customer Details on Invoice Details screen - Chrome Mobile
-Title: TC019 - Billing Details on Invoice Details screen - Chrome  
-Title: TC020 - Billing Details on Invoice Details screen - Edge
-Title: TC021 - Billing Details on Invoice Details screen - Chrome Mobile 
+- Title: TC010 - Invoice dates displayed on Invoice Details screen - Chrome 
+- Title: TC011 - Invoice dates displayed on Invoice Details screen - Edge
+- Title: TC012 - Invoice dates displayed on Invoice Details screen - Chrome Mobile
+- Title: TC013 - Booking details on Invoice Details screen - Chrome
+- Title: TC014 - Booking details on Invoice Details screen - Edge
+- Title: TC015 - Booking details on Invoice Details screen - Chrome Mobile
+- Title: TC016 - Customer Details on Invoice Details screen - Chrome
+- Title: TC017 - Customer Details on Invoice Details screen - Edge
+- Title: TC018 - Customer Details on Invoice Details screen - Chrome Mobile
+- Title: TC019 - Billing Details on Invoice Details screen - Chrome  
+- Title: TC020 - Billing Details on Invoice Details screen - Edge
+- Title: TC021 - Billing Details on Invoice Details screen - Chrome Mobile 
