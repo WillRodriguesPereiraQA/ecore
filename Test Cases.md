@@ -88,7 +88,7 @@ Test Data:
 - Browser: Edge 
 - Steps (BDD format):
 
-> -Given I am in the web page
+> - Given I am in the web page
 > - When I inform invalid Username and password 
 > - Then it displays the message: Wrong username or password
 
@@ -184,7 +184,7 @@ Test Data:
 - Browser: Edge   
 - Steps (BDD format):
 
-> -Given I am logged in the application
+> - Given I am logged in the application
 > - When I select an Invoice Details in the Invoice Link column 
 > - Then the Invoice date and due date are successfully displayed in the Hotel name section
 
@@ -220,7 +220,7 @@ Test Data:
 > - When I select an Invoice Details in the Invoice Link column 
 > - Then every Booking data below scheme are successfully displayed in the Booking/Stay section
 
-Booking Code | Room	| Total Stay Count | Total Stay Amount | Check-In | Check-Out
+> - Booking Code | Room	| Total Stay Count | Total Stay Amount | Check-In | Check-Out
 
 # Title: TC014 - Booking details on Invoice Details screen - Edge
 
@@ -239,7 +239,7 @@ Booking Code | Room	| Total Stay Count | Total Stay Amount | Check-In | Check-Ou
 > - When I select an Invoice Details in the Invoice Link column 
 > - Then every Booking data below scheme are successfully displayed in the Booking/Stay section
 
-Booking Code | Room	| Total Stay Count | Total Stay Amount | Check-In | Check-Out
+> - Booking Code | Room	| Total Stay Count | Total Stay Amount | Check-In | Check-Out
 
 # Title: TC015 - Booking details on Invoice Details screen - Chrome Mobile
 
@@ -258,7 +258,7 @@ Booking Code | Room	| Total Stay Count | Total Stay Amount | Check-In | Check-Ou
 > - When I select an Invoice Details in the Invoice Link column 
 > - Then every Booking data below scheme are successfully displayed in the Booking/Stay section
 
-Booking Code | Room	| Total Stay Count | Total Stay Amount | Check-In | Check-Out
+> - Booking Code | Room	| Total Stay Count | Total Stay Amount | Check-In | Check-Out
 
 # Title: TC016 - Customer Details on Invoice Details screen - Chrome
 - Prerequisite: Name and address of the customer are displayed on the Invoice Details.
@@ -324,7 +324,7 @@ Booking Code | Room	| Total Stay Count | Total Stay Amount | Check-In | Check-Ou
 > - When I select an Invoice Details in the Invoice Link column 
 > - Then every Billing data below scheme are successfully displayed in the Billing Details section
 
-Deposit Nowt | Tax&VAT | Total Amount
+> - Deposit Nowt | Tax&VAT | Total Amount
 
 # Title: TC020 - Billing Details on Invoice Details screen - Edge 
 - Prerequisite: Billing data are displayed on the Invoice Details.
@@ -342,7 +342,7 @@ Deposit Nowt | Tax&VAT | Total Amount
 > - When I select an Invoice Details in the Invoice Link column 
 > - Then every Billing data below scheme are successfully displayed in the Billing Details section
 
-Deposit Nowt | Tax&VAT | Total Amount
+> - Deposit Nowt | Tax&VAT | Total Amount
 
 # Title: TC021 - Billing Details on Invoice Details screen - Chrome Mobile 
 - Prerequisite: Billing data are displayed on the Invoice Details.
@@ -360,7 +360,7 @@ Deposit Nowt | Tax&VAT | Total Amount
 > - When I select an Invoice Details in the Invoice Link column 
 > - Then every Billing data below scheme are successfully displayed in the Billing Details section
 
-Deposit Nowt | Tax&VAT | Total Amount
+> - Deposit Nowt | Tax&VAT | Total Amount
 
 # Title: TC022 - Failed Login when navigating the web browser back button - Chrome
 - Prerequisite: After hit the back button, login failed with wrong credentials, the application shows the message: Wrong username or password
