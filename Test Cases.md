@@ -29,20 +29,20 @@ Test Data:
 > - Then I am successfully redirected to the Invoice List  
 
 # Title: TC002 - Successfull Login to the Invoice list page - Edge
-Prerequesite: After a successful login, the application should redirect the user to the page Invoice List
-Description: Check the application is accepting valid login credential
-Expected behavior: the application displays the invoice list page after the login succeeds
-Actual behavior: the invoice list page is successfully being displayed after the login succeeds
-Priority:
-Type: **Functional**
-Status: PASS
-Environment: QA/Pre-Prod
-Browser: Edge
-Steps (BDD format): 
+- Prerequesite: After a successful login, the application should redirect the user to the page Invoice List
+- Description: Check the application is accepting valid login credential
+- Expected behavior: the application displays the invoice list page after the login succeeds
+- Actual behavior: the invoice list page is successfully being displayed after the login succeeds
+- Priority:
+- Type: **Functional**
+- Status: PASS
+- Environment: QA/Pre-Prod
+- Browser: Edge
+- Steps (BDD format): 
 
-Given I am in the web page
-When I inform valid Username and password 
-Then I am successfully redirected to the Invoice List  
+> - Given I am in the web page
+> - When I inform valid Username and password 
+> - Then I am successfully redirected to the Invoice List  
 
 # Title: TC003 - Successfull Login to the Invoice list page - Chrome Mobile
 Prerequesite: After a successful login, the application should redirect the user to the page Invoice List
