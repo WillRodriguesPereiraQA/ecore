@@ -24,9 +24,9 @@ Test Data:
 - Browser: Chrome
 - Steps (BDD format): 
 
-1 - Given I am in the web page
-2 - When I inform valid Username and password 
-3 - Then I am successfully redirected to the Invoice List  
+> Given I am in the web page
+> When I inform valid Username and password 
+> Then I am successfully redirected to the Invoice List  
 
 # Title: TC002 - Successfull Login to the Invoice list page - Edge
 Prerequesite: After a successful login, the application should redirect the user to the page Invoice List
