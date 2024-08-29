@@ -1,6 +1,19 @@
 # ecore
 QA assessment - Test Coverage
 
+- 3 features 
+- 24 Test Cases
+- 37,5% of Functional Tests
+- 12,5% of Non-Functional Tests
+- 50% of Regression Tests 
+
+
+# Notes 
+- I divided the application in 3 major features: Log In, Invoice Links and Invoice Detais
+- The period of tests  of the development sprint should not be confused with the Regression tests period. They have distinct purpose and quality is totally about this, smartly plan, divide and use the time with technique. 
+- I consider both Functional and Non-Function tests very important to be run during the development sprint (feature branch), before the Regression tests.
+- Note that all regression test cases also pass through the log in functionality, so the Log in will be always compulsorily tested during a new version validation.
+
 
 # Functional
 - Title: TC001 - Successfull Login to the Invoice list page - Chrome
