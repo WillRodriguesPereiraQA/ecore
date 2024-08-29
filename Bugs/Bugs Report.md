@@ -23,3 +23,5 @@ QA assessment - Bugs
 - Actual behavior: the application is allowing the log in with sucess
 
 - Evidence: Check video attached
+
+Note: the video is also published on my drive https://drive.google.com/file/d/1Vk9gY7ObBDdae9V0Zfp8eehF-VOwrK-Z/view?usp=sharing
