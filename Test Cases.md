@@ -13,6 +13,7 @@ Test Data:
 # Test Cases of Log In feature:
 
 **Title: TC001 - Successfull Login to the Invoice list page - Chrome**
+
 - Prerequesite: After a successful login, the application should redirect the user to the page Invoice List
 - Description: Check the application is accepting valid login credential
 - Expected behavior: the application displays the invoice list page after the login succeeds
@@ -29,6 +30,7 @@ Test Data:
 > Then I am successfully redirected to the Invoice List  
 
 **Title: TC002 - Successfull Login to the Invoice list page - Edge**
+
 - Prerequesite: After a successful login, the application should redirect the user to the page Invoice List
 - Description: Check the application is accepting valid login credential
 - Expected behavior: the application displays the invoice list page after the login succeeds
@@ -45,6 +47,7 @@ Test Data:
 > - Then I am successfully redirected to the Invoice List  
 
 **Title: TC003 - Successfull Login to the Invoice list page - Chrome Mobile**
+
 - Prerequesite: After a successful login, the application should redirect the user to the page Invoice List
 - Description: Check the application is accepting valid login credential
 - Expected behavior: the application displays the invoice list page after the login succeeds
@@ -61,6 +64,7 @@ Test Data:
 > - Then I am successfully redirected to the Invoice List  
 
 **Title: TC004 - Failed Login to the Invoice list page - Chrome**
+
 - Prerequisite: After a failed login, the application shows the message: Wrong username or password
 - Description: Check the application is not accepting invalid login credentials
 - Expected behavior: the application displays error message
@@ -77,6 +81,7 @@ Test Data:
 > - Then it displays the message: Wrong username or password
 
 **Title: TC005 - Failed Login to the Invoice list page - Edge**
+
 - Prerequisite: After a failed login, the application shows the message: Wrong username or password
 - Description: Check the application is not accepting invalid login credentials
 - Expected behavior: the application displays error message
@@ -93,6 +98,7 @@ Test Data:
 > - Then it displays the message: Wrong username or password
 
 **Title: TC006 - Failed Login to the Invoice list page - Chrome Mobile**
+
 - Prerequisite: After a failed login, the application shows the message: Wrong username or password
 - Description: Check the application is not accepting invalid login credentials
 - Expected behavior: the application displays error message
@@ -112,6 +118,7 @@ Test Data:
 # Test Cases of Invoice Link feature:
 
 **Title: TC007 - Invoice Details link working properly - Chrome**
+
 - Prerequisite: After the user clicks any Invoice Details link, the application opens the Invoice Details screen.
 - Description: Check the Invoice Details screen is being successfully displayed
 - Expected behavior: Invoice Details screen being displayed properly  
@@ -128,6 +135,7 @@ Test Data:
 > - Then the Invoice screen is successfully displayed
 
 **Title: TC008 - Invoice Details link working properly - Edge**
+
 - Prerequisite: After the user clicks any Invoice Details link, the application opens the Invoice Details screen.
 - Description: Check the Invoice Details screen is being successfully displayed
 - Expected behavior: Invoice Details screen being displayed properly  
@@ -144,11 +152,12 @@ Test Data:
 > - Then the Invoice screen is successfully displayed
 
 **Title: TC009 - Invoice Details link working properly - Chrome Mobile** 
+
 - Prerequisite: After the user clicks any Invoice Details link, the application opens the Invoice Details screen.
 - Description: Check the Invoice Details screen is being successfully displayed
 - Expected behavior: Invoice Details screen being displayed properly  
 - Actual behavior: Invoice Details screen being displayed properly   
--Priority: 1
+- Priority: 1
 - Type: **Functional**
 - Status: PASS
 - Environment: QA/Pre-Prod
@@ -163,6 +172,7 @@ Test Data:
 # Test Cases of Invoice Details feature:
 
 **Title: TC010 - Invoice dates displayed on Invoice Details screen - Chrome** 
+
 - Prerequisite: Invoice Date and Due Date are displayed on the Invoice Details screen.
 - Description: Check the Invoice Details screen is displaying the dates properly
 - Expected behavior: Invoice Details dates displayed properly  
@@ -179,6 +189,7 @@ Test Data:
 > - Then the Invoice date and due date are successfully displayed in the Hotel name section
 
 **Title: TC011 - Invoice dates displayed on Invoice Details screen - Edge**
+
 - Prerequisite: Invoice Date and Due Date are displayed on the Invoice Details screen.
 - Description: Check the Invoice Details screen is displaying the dates properly
 - Expected behavior: Invoice Details dates displayed properly  
@@ -195,6 +206,7 @@ Test Data:
 > - Then the Invoice date and due date are successfully displayed in the Hotel name section
 
 **Title: TC012 - Invoice dates displayed on Invoice Details screen - Chrome Mobile**
+
 - Prerequisite: Invoice Date and Due Date are displayed on the Invoice Details screen.
 - Description: Check the Invoice Details screen is displaying the dates properly
 - Expected behavior: Invoice Details dates displayed properly  
@@ -211,6 +223,7 @@ Test Data:
 > - Then the Invoice date and due date are successfully displayed in the Hotel name section
 
 **Title: TC013 - Booking details on Invoice Details screen - Chrome**
+
 - Prerequisite: Informations of the reservation are displayed on the Invoice Details.
 - Description: Check the Invoice Details screen is displaying the dates properly
 - Expected behavior: Booking information displayed properly  
